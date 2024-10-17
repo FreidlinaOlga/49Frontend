@@ -85,3 +85,4 @@ function uncompletedTaskHandler() {
       : "none";
   });
 }
+fetchTasks(arrayDataTasks);

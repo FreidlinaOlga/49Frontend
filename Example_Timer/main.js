@@ -1,4 +1,3 @@
-ain.js
 const inputTimeElement = document.querySelector('#timeInput');
 const timerElement = document.querySelector('#timer');
 const endTimeMessageElement = document.querySelector('#message');

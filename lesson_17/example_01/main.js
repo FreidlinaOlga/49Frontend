@@ -49,7 +49,7 @@ resultOfFetch.finally(()=> {
 
 console.log('Программа работает дальше');
 
-// Оборачиваем данные в пропис!!!!
+// Оборачиваем данные в промис!!!!
 // const r = Math.random();
 
 // const rInPromise = new Promise((res, rej) => {
